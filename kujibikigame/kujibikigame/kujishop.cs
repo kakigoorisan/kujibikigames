@@ -25,6 +25,8 @@ namespace kujibikigame
         {
             kakuappu = Properties.Settings.Default.kakuappu;
             kujipo = Properties.Settings.Default.kujipo;
+            appukaku = Properties.Settings.Default.appukaku;
+            this.label6.Text = appukaku.ToString();
             this.label1.Text = kujipo.ToString();
             this.label5.Text = kakuappu.ToString();
         }
@@ -68,9 +70,9 @@ namespace kujibikigame
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (kujipo >= 500)
+            if (kujipo >= 2000)
             {
-                kujipo = kujipo - 500;
+                kujipo = kujipo - 2000;
                 appukaku = appukaku + 1;
                 this.label1.Text = kujipo.ToString();
                 this.label6.Text = appukaku.ToString();
