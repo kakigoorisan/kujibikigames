@@ -1,0 +1,11 @@
+C:\Users\mikan\source\repos\kujibikigame\kujibikigame\bin\Debug\kujibikigame.exe.config
+C:\Users\mikan\source\repos\kujibikigame\kujibikigame\bin\Debug\kujibikigame.exe
+C:\Users\mikan\source\repos\kujibikigame\kujibikigame\bin\Debug\kujibikigame.pdb
+C:\Users\mikan\source\repos\kujibikigame\kujibikigame\obj\Debug\kujibikigame.csprojAssemblyReference.cache
+C:\Users\mikan\source\repos\kujibikigame\kujibikigame\obj\Debug\kujibikigame.Properties.Resources.resources
+C:\Users\mikan\source\repos\kujibikigame\kujibikigame\obj\Debug\kujibikigame.csproj.GenerateResource.cache
+C:\Users\mikan\source\repos\kujibikigame\kujibikigame\obj\Debug\kujibikigame.exe
+C:\Users\mikan\source\repos\kujibikigame\kujibikigame\obj\Debug\kujibikigame.pdb
+C:\Users\mikan\source\repos\kujibikigame\kujibikigame\obj\Debug\kujibikigame.mainmenu.resources
+C:\Users\mikan\source\repos\kujibikigame\kujibikigame\obj\Debug\kujibikigame.kujibiki.resources
+C:\Users\mikan\source\repos\kujibikigame\kujibikigame\obj\Debug\kujibikigame.kujishop.resources
